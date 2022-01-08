@@ -1,5 +1,6 @@
 # axios // adapters
 
+## “adapters/”下的模块处理发送请求，并在收到响应后处理返回的“Promise”。
 The modules under `adapters/` are modules that handle dispatching a request and settling a returned `Promise` once a response is received.
 
 ## Example

@@ -1,4 +1,7 @@
 // TypeScript Version: 3.0
+/**
+ * axios 3.0 版本类型
+ */
 
 export type AxiosRequestHeaders = Record<string, string | number | boolean>;
 

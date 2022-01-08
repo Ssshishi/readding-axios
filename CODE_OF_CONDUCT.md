@@ -1,4 +1,5 @@
 # Contributor Covenant Code of Conduct
+# 代码使用契约
 
 ## Our Pledge
 

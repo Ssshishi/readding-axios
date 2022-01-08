@@ -1,4 +1,5 @@
 # Collaborator Guide
+## 合作者 指南
 
 As a collaborator, you will be involved with axios with some administrative responsibilities. This guide will help you understand your role and the responsibilities that come with being a collaborator.
 

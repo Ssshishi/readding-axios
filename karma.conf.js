@@ -6,6 +6,11 @@
 
 'use strict';
 
+/**
+ * karma 配置文件
+ * 一个简单的工具，允许您在多个真实浏览器中执行JavaScript代码。
+ * 比如 Chrome Firefox 。。。
+ */
 var webpack = require('webpack');
 
 function createCustomLauncher(browser, version, platform) {
